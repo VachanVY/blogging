@@ -59,7 +59,7 @@ CREATE TABLE IF NOT EXISTS comments (
 
 3. Access the Site
 
-Open your browser and go to http://localhost/vachan_proj/web_proj/
+Open your browser and go to http://localhost/web_proj/
  to access the blog.
 
 How to Use
@@ -113,3 +113,4 @@ c:\xampp\htdocs\vachan_proj\web_proj\
 Replies not working?
 
 If you created the database before the reply feature was added, run update_database.sql to update the schema.
+
